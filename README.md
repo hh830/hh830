@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30&height=250&text=Hello%World&fontSize=60&fontAlign=70)
 
 
-<!-- 방문자 수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhhJ830&count_bg=%23FF9FC8&title_bg=%233E044A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <br/>
  <br/>
@@ -66,3 +65,8 @@ Here are some ideas to get you started:
 [![현희's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhJ830)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
 -->
 
+<br>
+<br>
+
+<!-- 방문자 수 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhhJ830&count_bg=%23FF9FC8&title_bg=%233E044A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
