@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/92ca6e9d-28ff-4e00-893a-dfb96edaf42f" width="10%" height="10%">
 
 <br>
-
-<details>
- <summary>
-  
- </summary>
-</details>
-
 <br>
 
 <h2 align="center"> 🔥 Tech Stack 🔥 </h2>
@@ -57,6 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 
 <br>
@@ -68,15 +62,18 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
- <h2> ✏ Dev blog ✏ </h2>
+ <h2> ✏ Dev log ✏ </h2>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](벨로그링크)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](https://velog.io/@jhh0830/posts)
 
+<br>
+<br>
 
 <h2> 💡 Algorithm 💡 </h2>
 
 [![Solved.ac
 백준](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhh0830)](https://solved.ac/jhh0830)
+<br>
 <br>
 <h2> 🌈 Language 🌈 </h2>
 
