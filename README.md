@@ -92,3 +92,5 @@ Here are some ideas to get you started:
 
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhhJ830&count_bg=%23FF9FC8&title_bg=%233E044A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=FF8B8B&height=120&fontSize=60&fontAlign=50&fontColor=F9F8E6)
