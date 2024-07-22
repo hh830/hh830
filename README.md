@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
  <h2> ✏ Dev log ✏ </h2>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](https://velog.io/@jhh0830/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](https://velog.io/@jhh0830)
 
 <br>
 <br>
