@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <br>
 <h2> 🌈 Language 🌈 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhJ830&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hh830&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
