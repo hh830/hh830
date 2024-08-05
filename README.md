@@ -27,7 +27,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/92ca6e9d-28ff-4e00-893a-dfb96edaf42f" width="10%" height="10%">
 
 <br>
+
+
+<h4> 꾸준히 노력하는 사람이 되기 위해 📝 </h4>
+<a href="https://www.notion.so/94029d45718f40fc9295df5a4ade793c"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
 <br>
+<br>
+
 
 <h2 align="center"> 🔥 Tech Stack 🔥 </h2>
 
