@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <h4> 꾸준히 노력하는 사람이 되기 위해 📝 </h4>
-<a href="https://abyssinian-ping-c89.notion.site/94029d45718f40fc9295df5a4ade793c?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="https://www.notion.so/94029d45718f40fc9295df5a4ade793c"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
 <br>
