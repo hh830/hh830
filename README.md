@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 <h2>📧 contact 📧</h2>
  <a href="https://velog.io/@jhh0830"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jhh0830"/></a>
+
 <a href="mailto:jhh8890@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jhh8890@naver.com"/></a>
 <br><br><br>
 
@@ -69,6 +70,10 @@ Here are some ideas to get you started:
  <h2> ✏ Dev log ✏ </h2>
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](https://velog.io/@jhh0830)
+
+<br>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hh830&postId=default)](https://github.com/loosie/github-readme-tistory-card)
 
 <br>
 <br>
