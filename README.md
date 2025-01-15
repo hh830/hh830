@@ -61,9 +61,10 @@ Here are some ideas to get you started:
 <br>
 
 <h2>📧 contact 📧</h2>
- <a href="https://velog.io/@jhh0830"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jhh0830"/></a>
+ <a href="https://velog.io/@jhh0830"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jhh0830"/></a>
+ <a href="https://hh830.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hh830.tistory.com"/></a>
+ <a href="mailto:jhh8890@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jhh8890@naver.com"/></a>
 
-<a href="mailto:jhh8890@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jhh8890@naver.com"/></a>
 <br><br><br>
 
 
