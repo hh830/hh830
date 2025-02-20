@@ -28,13 +28,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/92ca6e9d-28ff-4e00-893a-dfb96edaf42f" width="10%" height="10%">
 
 <br>
-
-
-<h4> 꾸준히 노력하는 사람이 되기 위해 📝 </h4>
-<a href="https://www.notion.so/94029d45718f40fc9295df5a4ade793c"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-
-
-<br>
 <br>
 
 
@@ -71,10 +64,6 @@ Here are some ideas to get you started:
  <h2> ✏ Dev log ✏ </h2>
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhh0830)](https://velog.io/@jhh0830)
-
-<br>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hh830&postId=default)](https://github.com/loosie/github-readme-tistory-card)
 
 <br>
 <br>
