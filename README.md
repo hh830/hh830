@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 
 <h4> 안녕하세요!! 백엔드 개발자가 되고 싶은 장현희입니다.😊
+
+ <br>
  
 <img src="https://github.com/user-attachments/assets/92ca6e9d-28ff-4e00-893a-dfb96edaf42f" width="10%" height="10%">
 
