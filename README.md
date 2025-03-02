@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <h4> 안녕하세요!! 백엔드 개발자가 되고 싶은 장현희입니다.😊
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jua&pause=1000&color=F7B1B1&background=FFFFFFBB&center=true&vCenter=true&random=false&width=435&lines=Hello+I+am+Hyeonhee+Jang.;I+want+to+be+a+backend+developer.;Nice+to+neet+you+%3A\)+)](https://git.io/typing-svg)
- 
 <img src="https://github.com/user-attachments/assets/92ca6e9d-28ff-4e00-893a-dfb96edaf42f" width="10%" height="10%">
 
 <br>
